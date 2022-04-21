@@ -120,5 +120,5 @@ Showing balance after depositing 5 ETH.
 Withdrawaing 5 ETH to account 1, and showing the function calls for the balance, and withdrawal functions.
 ![alt=“Withdraw to acct 1”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/withdraw5ethacct1.png)
 
-
+Withdrawaing 10 ETH to account 2, and showing the function calls for the balance, and withdrawal functions.
 ![alt=“Withdraw to acct 2](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/withdraw10ethacct2.png)

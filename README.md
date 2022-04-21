@@ -1,12 +1,8 @@
-# Unit 20 - "Joint Savings Account"
-
-![alt=“”](Images/20-5-challenge-image.png)
+![alt=“Lets build a rug pull”](https://pbs.twimg.com/media/FHFJiAvXwAQT6tP.jpg)
 
 ### Background
 
-A fintech startup company has recently hired you. This company is disrupting the finance industry with its own cross-border, Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
-
-To automate the creation of joint savings accounts, you’ll create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Your smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
+To automate the creation of joint savings accounts, create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Your smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
 
 ### What You're Creating
 
@@ -99,13 +95,30 @@ To interact with your deployed smart contract, complete the following steps:
 
 ---
 
-### Submission
+### Execution Results
+Setting the accounts.
+![alt=“SetAccounts”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/setAccounts.png)
 
-* Upload the files for this assignment to your GitHub repository.
+Depositing 1 ETH in Wei.
+![alt=“Deposit 1 Eth in Wei”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/1ETHinWei.png)
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+Showing balance after depositing 1 ETH in Wei.
+![alt=“Balance Snap 1”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/1EthinWeiBal.png)
 
----
+Depositing 10 Eth in Wei.
+![alt=“10 Eth in Wei”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/10ETHinWei.png)
 
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Showing balance after depositing 10 ETH in Wei.
+![alt=“Bal Snap 2”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/10EthinWeiBal.png)
 
+Depositing 5 ETH.
+![alt=“”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/5ETH.png)
+
+Showing balance after depositing 5 ETH.
+![alt=“Snap bal 3”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/5EthBal.png)
+
+Withdrawaing 5 ETH to account 1, and showing the function calls for the balance, and withdrawal functions.
+![alt=“Withdraw to acct 1”](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/withdraw5ethacct1.png)
+
+
+![alt=“Withdraw to acct 2](https://github.com/DanEspin0821/Joint-Savings-Account-20/blob/main/Execution_Results/withdraw10ethacct2.png)
